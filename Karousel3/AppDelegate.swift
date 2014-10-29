@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Karousel3
+//  20141021_Carousel
 //
-//  Created by Eric Eriksson on 10/28/14.
+//  Created by Eric Eriksson on 10/21/14.
 //  Copyright (c) 2014 Eric Eriksson. All rights reserved.
 //
 

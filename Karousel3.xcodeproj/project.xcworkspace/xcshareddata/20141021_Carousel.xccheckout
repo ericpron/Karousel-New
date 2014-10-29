@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7C1CEC50-D9A1-4A82-B0A0-B28D0CA58894</string>
+	<key>IDESourceControlProjectName</key>
+	<string>20141021_Carousel</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>05D714775595C223C11455E5F2EC9B61CB13F8B8</key>
+		<string>https://github.com/hoyd/Hustle.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>carousel-flow/20141021_Carousel.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>05D714775595C223C11455E5F2EC9B61CB13F8B8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hoyd/Hustle.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>05D714775595C223C11455E5F2EC9B61CB13F8B8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>05D714775595C223C11455E5F2EC9B61CB13F8B8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Hustle</string>
+		</dict>
+	</array>
+</dict>
+</plist>
